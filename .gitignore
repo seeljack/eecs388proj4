@@ -1,0 +1,6 @@
+/target[0-8]
+/input8.dat
+core
+*~
+\#*
+__pycache__
